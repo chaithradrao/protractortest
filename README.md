@@ -11,7 +11,10 @@
 
 	•	Run the following command to clone the repo for the simple Business Insider protractor tests
 	git clone https://github.com/chaithradrao/protractortest.git
+	This creates a directory 'protractortest'. 
 
-	•	Run ‘npm install’ in the same directory where repo was cloned
+	•	Change directory to 'protractortest' and run ‘npm install’ in it
 
 	•	Run command ‘protractor conf.js’ to run the tests
+
+Note: May have to run these commands as admin (sudo)
